@@ -14,7 +14,7 @@ import snowflake.connector
 # Establish a connection
 conn = snowflake.connector.connect(
     user='RUMA1SINHA2',
-    password='Planet@123',
+    password='',
     account='QQFDERZ-EM28086'
 )
 
